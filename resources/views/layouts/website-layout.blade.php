@@ -17,7 +17,7 @@
     <!-- End Vite -->
     <title>@yield('title')</title>
 </head>
-<body>
+<body class="font-poppins">
     {{ $slot }}
 </body>
 </html>
