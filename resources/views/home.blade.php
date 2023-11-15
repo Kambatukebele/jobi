@@ -8,7 +8,7 @@
             </div>
             <!-- End Logo -->
             <!-- Navigation & Login and Post btn -->
-            <div class="bg-green-800 h-screen w-[calc(100%-70px)] absolute top-0 left-0 py-5 px-5">
+            <div class="bg-green-800 block delay-150 h-screen w-[calc(100%-70px)] -ml-[1000px] absolute top-0 left-0 py-5 px-5">
                 <!-- Navigation -->
                 <ul class="border h-[220px] flex justify-center items-star flex-col">
                     <li class="h-[49px] flex items-center"><a href="#" class="text-base">Home</a></li>
@@ -18,9 +18,9 @@
                 </ul>
                 <!-- End Navigation -->
                 <!-- Login and Post button -->
-                <div class="h-[120px] border flex justify-between items-star flex-col">
-                    <a class="h-[49px] flex border items-center" href="#">Login/Sign up</a>
-                    <a class="h-[49px] flex border items-center" href="#">Post a job</a>
+                <div class="h-[150px] border flex justify-evenly items-star flex-col">
+                    <a class="h-[49px] " href="#">Login/Sign up</a>
+                    <a class="h-[49px] w-full rounded-full border flex justify-center items-center" href="#">Post a job</a>
                 </div>
                 <!-- End Login and Post button -->
             </div>
