@@ -8,19 +8,19 @@
             </div>
             <!-- End Logo -->
             <!-- Navigation & Login and Post btn -->
-            <div class="bg-green-800 h-screen w-full absolute top-0 left-0">
+            <div class="bg-green-800 h-screen w-[calc(100%-70px)] absolute top-0 left-0 py-5 px-5">
                 <!-- Navigation -->
-                <ul class="">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Job</a></li>
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">Contact</a></li>
+                <ul class="border h-[220px] flex justify-center items-star flex-col">
+                    <li class="h-[49px] flex items-center"><a href="#" class="text-base">Home</a></li>
+                    <li class="h-[49px] flex items-center"><a href="#" class="text-base">Job</a></li>
+                    <li class="h-[49px] flex items-center"><a href="#" class="text-base">Blog</a></li>
+                    <li class="h-[49px] flex items-center"><a href="#" class="text-base">Contact</a></li>
                 </ul>
                 <!-- End Navigation -->
                 <!-- Login and Post button -->
-                <div class="">
-                    <a href="#">Login/Sign up</a>
-                    <a href="#">Post a job</a>
+                <div class="h-[120px] border flex justify-between items-star flex-col">
+                    <a class="h-[49px] flex border items-center" href="#">Login/Sign up</a>
+                    <a class="h-[49px] flex border items-center" href="#">Post a job</a>
                 </div>
                 <!-- End Login and Post button -->
             </div>
