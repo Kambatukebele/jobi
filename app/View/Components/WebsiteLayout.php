@@ -21,6 +21,6 @@ class WebsiteLayout extends Component
      */
     public function render(): View|Closure|string
     {
-        return view('components.website-layout');
+        return view('layouts.website-layout');
     }
 }
