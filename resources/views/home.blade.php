@@ -26,8 +26,8 @@
             </div>
             <!-- End Navigation & Login and Post btn -->
             <!-- Hamburger menu and close Menu for small devices -->            
-            <i class="fa-solid fa-bars text-3xl block text-white w-[44px] h-[38px] bg-green-600 border text-center rounded cursor-pointer"></i>
-            <i class="fa-solid fa-xmark text-3xl hidden text-white w-[44px] h-[38px] bg-green-600 border text-center rounded cursor-pointer"></i>          
+            <i class="fa-solid fa-bars openNav text-3xl block text-white w-[44px] h-[38px] bg-green-600 border text-center rounded cursor-pointer"></i>
+            <i class="fa-solid fa-xmark cloneNav text-3xl hidden text-white w-[44px] h-[38px] bg-green-600 border text-center rounded cursor-pointer"></i>          
             <!-- End Hamburger menu and close Menu for small devices -->
         </div>
     </nav>
